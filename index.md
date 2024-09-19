@@ -180,6 +180,10 @@ With the ability to overwrite root files, I imagine that the Dirty Cow exploit h
 
 - _Figure 12_: Using the id command on user Matthew as the root user. In doing so, I find that Matthew has a UID of 0 which would thereby make him a root user as well! Comparing this to _Figure 4_, I see that a non-root user has indeed escalated himself to a root user. I imagine this would be one of a system administrator’s worst nightmares!
 
+<p align="center">
+  <img width="770" height="650" src="assets/fig12.png">
+</p>
+
 # Conclusion
 
 This lab was a thorough demonstration of how permissions work in Linux and I now feel that I have a much better understanding than I did when I was initially starting the chapter. Throughout the lab, I found three limitations: The first, and most significant, is the massive download time the older CentOS disk image had which greatly hindered progress. The second is the security measure CentOS has which causes the system to reboot when the Dirty Cow programs were executed. Finally, the third limitation is how the content of the overwritten rootfile is cut off. The lab also made me more aware of the dangers of exploits like Dirty Cow and how programmers and administrators must stay informed and up to date with their systems if they wish to catch and prevent exploits like this one. After this lab, I would say that I am now more prepared to handle users and better moderate their access should they choose to use my system.
