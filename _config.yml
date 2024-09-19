@@ -1,5 +1,5 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
+title: User Accounts Management, Permissions, and Privileges
+description: A demonstration of the methods used to limit file and system access and an expression of the dangers of the Dirty Cow exploit
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
