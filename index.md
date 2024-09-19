@@ -188,7 +188,7 @@ This lab was a thorough demonstration of how permissions work in Linux and I now
 
 - <a href="https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository" target="_blank">2.1 Git Basics - Getting a Git Repository.</a> Git
 
-- <a href="https://chmodcommand.com/chmod-770/" target="_blank">Chmod 770.</a> CHMOD Calculator. Accessed November 22, 2021.
+- <a href="https://chmodcommand.com/chmod-770/" target="_blank">Chmod 770.</a> CHMOD Calculator
 
 - <a href="https://gcc.gnu.org/" target="_blank">GCC, the GNU Compiler Collection.</a> GCC, the GNU Compiler Collection - GNU Project
 
