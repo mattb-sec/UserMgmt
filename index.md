@@ -150,7 +150,7 @@ As for the rest of the permission, we see that root users can read the file, wri
   <img width="770" height="650" src="assets/fig8.png">
 </p>
 
-## Compiling the Dirt Cow Program and Escalating Privileges
+## Compiling the Dirty Cow Program and Escalating Privileges
 
 As the invader, my target has become clear, and I am ready to execute the Dirty Cow exploit. First, however, I must compile my program using GCC. To do so, I will need to use the command “gcc -pthread dirtyc0w.c -o dirtyc0w”. In doing so, I compile the Dirty Cow program written in C into an executable file named “dirtyc0w”. The figure below shows this process:
 
